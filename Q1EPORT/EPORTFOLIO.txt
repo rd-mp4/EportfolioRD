@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta Charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" Content="IE=edge">
+<meta name="viewport" Content="width-device-width, initial-scan=1.0">
+<link rel="stylesheet" href="style.css">
+<title> RD-Homepage </title>
+</head>
+
+<body background="LPSCI Film Strip BIGGER (GIF).gif">
+<header>
+  <div class="main">
+  <ul>
+  <li><a href="#">Home</a></li>
+  <li><a href="#">About</a></li>
+  <li><a href="#">Dessert</a></li>
+  <li><a href="#">Appetizer</a></li>
+  <li><a href="#">Pasta</a></li>
+  <li><a href="#">Salad</a></li>
+  <li><a href="#">Burger</a></li>
+  <li><a href="#">Pizza</a></li>
+  <li><a href="#">More Recipes</a></li>
+  </ul>
+  </div>
+</header>
+
+
+</body>
+</html>
